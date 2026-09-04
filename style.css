@@ -810,7 +810,7 @@ label .grupo-opciones {
 .end h2 {
     font-family: var(--font-principal);
     font-size: 3.2rem;
-    color:var(--color-1);
+    color:var(--color-3);
     margin: auto;
     max-width: 320px;
     padding: 10px 0;
