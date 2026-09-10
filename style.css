@@ -681,8 +681,8 @@ label .grupo-opciones {
 }
 .formulario .formtitle {
     font-family: var(--font-principal);
-    color: var(--color-3);
- font-size: 2.6rem;
+    color: var(--color-1);
+ font-size: 2.8rem;
      padding: 0;
     margin: 0;
 }
@@ -712,8 +712,8 @@ label .grupo-opciones {
   width: 10px;
   align-items: center;
   font-family: var(--font-principal); /* Cambiá esto por el nombre real de tu fuente secundaria */
-  color: var(--color-principal); /* Este es tu color principal, definilo antes o reemplazalo por un valor hex como #A3A87B */
-  font-size: 1em;
+  color: var(--color-1); /* Este es tu color principal, definilo antes o reemplazalo por un valor hex como #A3A87B */
+  font-size: 1.4em;
   gap: 6px;
 }
 
